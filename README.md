@@ -98,7 +98,7 @@ My current focus includes:
 * **Odoo Development**: Custom modules, business workflows, ORM, security, reports, automated actions, and integrations.
 * **Odoo Website**: QWeb templates, OWL components, customer portals and responsive interfaces.
 * **Data Migration & Integration**: Complex data transformation, validation, imports, PostgreSQL, REST APIs, and third-party integrations.
-* * **Code Quality & Testing**: Automated tests, static analysis, pytest, Ruff, code reviews, and CI/CD workflows.
+* **Code Quality & Testing**: Automated tests, static analysis, pytest, Ruff, code reviews, and CI/CD workflows.
 * **Odoo Migrations**: Maintenance and migration of custom modules across multiple Odoo versions.
 
 ---
