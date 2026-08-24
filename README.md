@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 👨‍💻 **Odoo & Python Developer** based in Montreal, Canada.
 * 🐍 Specialized in **Odoo ERP**, **Python Backend Development**, and **Business Applications**.
 * 🧩 Experienced in **Custom Odoo Modules, Integrations, Website and Portal Development**.
-* 🤝 **OCA Member** and open-source contributor to the Odoo ecosystem.
+<!--* 🤝 **OCA Member** and open-source contributor to the Odoo ecosystem.-->
 * 🚀 Working across **Odoo 15, 16, 17, 18, and 19**.
 
 ---
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
+<!--
 ## 🤝 Odoo Community Association
 
 [![OCA](https://img.shields.io/badge/OCA-Member-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)](https://odoo-community.org/)
@@ -91,7 +91,7 @@ My current focus includes:
 * ⚙️ **Code quality improvements**
 * 🚀 **OpenUpgrade and migration-related work**
 
----
+--- -->
 
 ## 📂 Portfolio Highlights
 
