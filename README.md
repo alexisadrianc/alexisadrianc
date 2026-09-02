@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 * 👨‍💻 **Odoo & Python Developer** based in Montreal, Canada.
 * 🐍 Specialized in **Odoo ERP**, **Python Backend Development**, and **Business Applications**.
 * 🧩 Experienced in **Custom Odoo Modules, Integrations, Website and Portal Development**.
+* 🤝 **OCA Contributor** and open-source contributor to the Odoo ecosystem.
 * 🚀 Working across **Odoo 15, 16, 17, 18, and 19**.
-<!--* 🤝 **OCA Member** and open-source contributor to the Odoo ecosystem.
-* 🚀 Working across **Odoo 15, 16, 17, 18, and 19**.
--->
+
 ---
 
 ### 🌐 Connect with me:
@@ -74,25 +73,23 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-<!--
+
 ## 🤝 Odoo Community Association
 
-[![OCA](https://img.shields.io/badge/OCA-Member-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)](https://odoo-community.org/)
+[![OCA](https://img.shields.io/badge/OCA-Contributor-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)](https://odoo-community.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white)](https://github.com/OCA)
 
-I'm an **OCA Member** with previous experience contributing to the Odoo open-source ecosystem.
+I'm an **OCA Contributor** with previous experience contributing to the Odoo open-source ecosystem.
 
 My current focus includes:
 
 * 🔄 **Odoo module migrations**
 * 🐛 **Bug fixes and module maintenance**
-* 🧪 **Automated testing**
 * 🔍 **Code reviews**
-* 📦 **Odoo module development**
 * ⚙️ **Code quality improvements**
 * 🚀 **OpenUpgrade and migration-related work**
 
---- -->
+--- 
 
 ## 📂 Portfolio Highlights
 
